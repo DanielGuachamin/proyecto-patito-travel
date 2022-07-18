@@ -1,4 +1,7 @@
 # Patito Travel
+
+El apk para android se encuentra dentro de este enlace → 
+
 ## Acerca del proyecto (Manual de usuario)
 <div align="center">
     <img src="captures/pantallaInicio.png" alt="Inicio" width="222" height="463">
