@@ -8,7 +8,7 @@
 * Jeremy León
 * Cindy Yazán
 
-El apk para android se encuentra dentro de este enlace → [Apk](https://choosealicense.com)
+El apk para android se encuentra dentro de este enlace → [Apk](https://epnecuador-my.sharepoint.com/:f:/g/personal/jeremy_leon_epn_edu_ec/EvIS9yRTABRPoMVAuEyhxloBa20794oHyM2YKhuck62L7w?e=NB6KaJ)
 
 ## Acerca del proyecto (Manual de usuario)
 <div align="center">
