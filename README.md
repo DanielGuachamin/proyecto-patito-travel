@@ -123,7 +123,7 @@ Ionic permite la visualización en la Web
 
 Encuentra en el siguiente link como funciona la aplicación
 
-* [Video](https://clipchamp.com/watch/uIK4CbWSVae)
+* [Video](https://clipchamp.com/watch/uIK4CbWSVae) → En caso de no visualizar a la primera, se solicita recargar la página
 
 Además contamos con una página web
 
