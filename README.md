@@ -1,5 +1,13 @@
 # Patito Travel
 
+## Integrantes
+
+* Denisse Cumbal
+* Ivan Fraga
+* Daniel Guachamín
+* Jeremy León
+* Cindy Yazán
+
 El apk para android se encuentra dentro de este enlace → [Apk](https://choosealicense.com)
 
 ## Acerca del proyecto (Manual de usuario)
@@ -122,7 +130,7 @@ Además contamos con una página web
 * [Sitio Web](https://choosealicense.com)
 
 
-El respaldo de la base de datos en una hoja de cálculo de Google
+Aquí podras encocntrar el respaldo de la base de datos en una hoja de cálculo de Google
 
 * [Google Sheet](https://docs.google.com/spreadsheets/d/14FhZ6bSXEYHy78pjf9Qas94wJg0VRilxBYAhurAlpwo/edit?usp=sharing)
 
