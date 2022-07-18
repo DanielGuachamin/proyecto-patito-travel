@@ -127,7 +127,7 @@ Encuentra en el siguiente link como funciona la aplicación
 
 Además contamos con una página web
 
-* [Sitio Web](https://choosealicense.com)
+* [Sitio Web](https://ionicimagen-358b2.web.app/)
 
 
 Aquí podras encocntrar el respaldo de la base de datos en una hoja de cálculo de Google
