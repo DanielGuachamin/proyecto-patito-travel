@@ -123,11 +123,11 @@ Ionic permite la visualización en la Web
 
 Encuentra en el siguiente link como funciona la aplicación
 
-* [Video](https://clipchamp.com/watch/uIK4CbWSVae) → En caso de no visualizar a la primera, se solicita recargar la página
+* [Video](https://clipchamp.com/watch/uIK4CbWSVae) 
 
 Además contamos con una página web
 
-* [Sitio Web](https://ionicimagen-358b2.web.app/)
+* [Sitio Web](https://ionicimagen-358b2.web.app/)→ En caso de no visualizar a la primera, se solicita recargar la página
 
 
 Aquí podras encocntrar el respaldo de la base de datos en una hoja de cálculo de Google
