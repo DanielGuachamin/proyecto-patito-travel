@@ -123,7 +123,7 @@ Ionic permite la visualización en la Web
 
 Encuentra en el siguiente link como funciona la aplicación
 
-* [Youtube](https://choosealicense.com)
+* [Video](https://clipchamp.com/watch/uIK4CbWSVae)
 
 Además contamos con una página web
 
